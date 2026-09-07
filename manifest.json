@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-09-07T23:51:36.851011",
+  "generated_at": "2026-09-07T23:59:08.769164",
   "base_url": "https://adorisedigital.com",
-  "total_pages": 15,
-  "new_pages_this_run": 10,
+  "total_pages": 5,
+  "new_pages_this_run": 0,
   "files": [
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\index.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-content-automation-engine.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-lead-generation-pipeline.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-ai-automation-suite-for-business.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-no-code-workflow-automation-platform.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-zapier-alternative-ai-pricing.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-make.com-alternative-for-teams.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-enterprise-automation-ai.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-saas-automation-platform.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-ai-agency-stack-tools.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-all-in-one-business-automation.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-business-process-automation-ai.html",
-    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter-autonomous-workflow-platform.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\sitemap.xml",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\robots.txt",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\CNAME"
@@ -29,16 +19,5 @@
     "ai-lead-generation-pipeline",
     "ai-automation-suite-starter"
   ],
-  "new_slugs": [
-    "ai-automation-suite-starter-ai-automation-suite-for-business",
-    "ai-automation-suite-starter-no-code-workflow-automation-platform",
-    "ai-automation-suite-starter-zapier-alternative-ai-pricing",
-    "ai-automation-suite-starter-make.com-alternative-for-teams",
-    "ai-automation-suite-starter-enterprise-automation-ai",
-    "ai-automation-suite-starter-saas-automation-platform",
-    "ai-automation-suite-starter-ai-agency-stack-tools",
-    "ai-automation-suite-starter-all-in-one-business-automation",
-    "ai-automation-suite-starter-business-process-automation-ai",
-    "ai-automation-suite-starter-autonomous-workflow-platform"
-  ]
+  "new_slugs": []
 }
