@@ -1,13 +1,24 @@
 {
-  "generated_at": "2026-09-07T06:01:26.592586",
+  "generated_at": "2026-09-07T06:11:52.592711",
   "base_url": "https://adorisedigital.com",
-  "total_pages": 5,
+  "total_pages": 15,
+  "new_pages_this_run": 10,
   "files": [
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\index.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-content-automation-engine.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-lead-generation-pipeline.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-automation-suite-starter.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-ai-customer-service-automation-for-small-business.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-24-7-ai-support-bot-pricing.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-automated-helpdesk-vs-zendesk.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-reduce-customer-service-costs-with-ai.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-ai-live-chat-for-ecommerce.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-after-hours-support-automation.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-ai-chatbot-for-saas-support.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-customer-support-ticket-automation.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-ai-customer-experience-platform.html",
+    "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\pages\\ai-customer-service-support-autonomous-support-bot-deployment.html",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\sitemap.xml",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\robots.txt",
     "C:\\Users\\HOME_PC\\Documents\\antigravity\\calm-carson\\Adorise Digital\\00-SPECS\\K_revenue_system\\K_github_pages\\CNAME"
@@ -17,5 +28,17 @@
     "ai-content-automation-engine",
     "ai-lead-generation-pipeline",
     "ai-automation-suite-starter"
+  ],
+  "new_slugs": [
+    "ai-customer-service-support-ai-customer-service-automation-for-small-business",
+    "ai-customer-service-support-24-7-ai-support-bot-pricing",
+    "ai-customer-service-support-automated-helpdesk-vs-zendesk",
+    "ai-customer-service-support-reduce-customer-service-costs-with-ai",
+    "ai-customer-service-support-ai-live-chat-for-ecommerce",
+    "ai-customer-service-support-after-hours-support-automation",
+    "ai-customer-service-support-ai-chatbot-for-saas-support",
+    "ai-customer-service-support-customer-support-ticket-automation",
+    "ai-customer-service-support-ai-customer-experience-platform",
+    "ai-customer-service-support-autonomous-support-bot-deployment"
   ]
 }
